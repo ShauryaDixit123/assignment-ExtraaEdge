@@ -1,0 +1,24 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.display-weather {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+}
+.current {
+  height: 500px;
+  width: 500px;
+  background-color: antiquewhite;
+  margin-right: 20px;
+}
+
+.threedays {
+  height: 500px;
+  width: 500px;
+  background-color: aqua;
+}
